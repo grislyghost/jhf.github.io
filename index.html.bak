@@ -32,7 +32,7 @@
       <h1>JHF Research & Marketing</h1>
       <h2 style="font-size:22px;">Digital marketing strategy, automation, and administration services based in San Francisco, California.</h2>
       <h3 style="font-size:32px; font-family:'Pacifico';">"Let marketing teams <u>just have fun</u>."</h3>
-      <p style=padding-top:20px;><a href="https://jhf.io/contact" class="btn btn-lg btn-success">Contact Us</a></p>
+      <p style=padding-top:20px;><a href="/contact" class="btn btn-lg btn-success">Contact Us</a></p>
     </div>
   </body>
 </html>

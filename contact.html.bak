@@ -28,11 +28,41 @@
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- Tag Manager (noscript) -->
     <div id="content" style="text-align:center; margin:auto; margin-top:5%; max-width:600px; color:#424242;">
-      <img src='/jhf_logo.png' alt='JHF Logo'>
+      <a href="/"><img src='/jhf_logo.png' alt='JHF Logo'></a>
       <h1>JHF Research & Marketing</h1>
-      <h2 style="font-size:22px;">Digital marketing strategy, automation, and administration services based in San Francisco, California.</h2>
-      <h3 style="font-size:32px; font-family:'Pacifico';">"Let marketing teams <u>just have fun</u>."</h3>
-      <p style=padding-top:20px;><a href="https://jhf.io/contact" class="btn btn-lg btn-success">Contact Us</a></p>
+      <h2 style="font-size:22px;">Contact us for information about our digital marketing strategy, automation, and administration services.</h2>
+      <h3 style="font-size:32px; font-family:'Pacifico';">"Ready to <u>just have fun</u> marketing?"</h3>
+      <p style=padding-top:20px;>
+        <div id="zf_div_aii4Zo-4QvOsSWx4uX_7rwSqpq3N3iQyouK_R2Aqfic"></div><script type="text/javascript">(function() {
+        try{
+          var f = document.createElement("iframe");
+          f.src = 'https://forms.zohopublic.com/virtualoffice21483/form/Contactjhfio/formperma/aii4Zo-4QvOsSWx4uX_7rwSqpq3N3iQyouK_R2Aqfic?zf_rszfm=1';
+          f.style.border="none";
+          f.style.height="1060px";
+          f.style.width="90%";
+          f.style.transition="all 0.5s ease";
+          var d = document.getElementById("zf_div_aii4Zo-4QvOsSWx4uX_7rwSqpq3N3iQyouK_R2Aqfic");
+          d.appendChild(f);
+          window.addEventListener('message', function (){
+            var evntData = event.data;
+            if( evntData && evntData.constructor == String ){
+              var zf_ifrm_data = evntData.split("|");
+              if ( zf_ifrm_data.length == 2 ) {
+                var zf_perma = zf_ifrm_data[0];
+                var zf_ifrm_ht_nw = ( parseInt(zf_ifrm_data[1], 10) + 15 ) + "px";
+                var iframe = document.getElementById("zf_div_aii4Zo-4QvOsSWx4uX_7rwSqpq3N3iQyouK_R2Aqfic").getElementsByTagName("iframe")[0];
+                if ( (iframe.src).indexOf('formperma') > 0 && (iframe.src).indexOf(zf_perma) > 0 ) {
+                  var prevIframeHeight = iframe.style.height;
+                  if ( prevIframeHeight != zf_ifrm_ht_nw ) {
+                    iframe.style.height = zf_ifrm_ht_nw;
+                  }
+                }
+              }
+            }
+          }, false);
+        }catch(e){}
+      })();</script>
+      </p>
     </div>
   </body>
 </html>
