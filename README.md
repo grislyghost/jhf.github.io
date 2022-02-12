@@ -1,2 +1,2 @@
-# jhfranks.github.io
-Personal website
+# jhf.github.io
+Website for jhf.io
